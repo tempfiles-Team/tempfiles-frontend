@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3d10672c.css",
-    "main.js": "/static/js/main.584bcc83.js",
-    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
-    "index.html": "/index.html",
-    "static/media/checkIcon.svg": "/static/media/checkIcon.083fa5471fa782b4e8c23dfbd1cf2f30.svg",
-    "main.3d10672c.css.map": "/static/css/main.3d10672c.css.map",
-    "main.584bcc83.js.map": "/static/js/main.584bcc83.js.map",
-    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "https://ananjaemin.github.io/tempfiles/static/css/main.3d10672c.css",
+    "main.js": "https://ananjaemin.github.io/tempfiles/static/js/main.18b5664a.js",
+    "static/js/787.cda612ba.chunk.js": "https://ananjaemin.github.io/tempfiles/static/js/787.cda612ba.chunk.js",
+    "index.html": "https://ananjaemin.github.io/tempfiles/index.html",
+    "static/media/checkIcon.svg": "https://ananjaemin.github.io/tempfiles/static/media/checkIcon.083fa5471fa782b4e8c23dfbd1cf2f30.svg",
+    "main.3d10672c.css.map": "https://ananjaemin.github.io/tempfiles/static/css/main.3d10672c.css.map",
+    "main.18b5664a.js.map": "https://ananjaemin.github.io/tempfiles/static/js/main.18b5664a.js.map",
+    "787.cda612ba.chunk.js.map": "https://ananjaemin.github.io/tempfiles/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d10672c.css",
-    "static/js/main.584bcc83.js"
+    "static/js/main.18b5664a.js"
   ]
 }
