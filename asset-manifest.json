@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tempfiles/static/css/main.3d10672c.css",
-    "main.js": "/tempfiles/static/js/main.c7d98d2b.js",
-    "static/js/787.cda612ba.chunk.js": "/tempfiles/static/js/787.cda612ba.chunk.js",
-    "index.html": "/tempfiles/index.html",
-    "static/media/checkIcon.svg": "/tempfiles/static/media/checkIcon.083fa5471fa782b4e8c23dfbd1cf2f30.svg",
-    "main.3d10672c.css.map": "/tempfiles/static/css/main.3d10672c.css.map",
-    "main.c7d98d2b.js.map": "/tempfiles/static/js/main.c7d98d2b.js.map",
-    "787.cda612ba.chunk.js.map": "/tempfiles/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/tempfiles-frontend/static/css/main.3d10672c.css",
+    "main.js": "/tempfiles-frontend/static/js/main.8e06ccf8.js",
+    "static/js/787.cda612ba.chunk.js": "/tempfiles-frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/tempfiles-frontend/index.html",
+    "static/media/checkIcon.svg": "/tempfiles-frontend/static/media/checkIcon.083fa5471fa782b4e8c23dfbd1cf2f30.svg",
+    "main.3d10672c.css.map": "/tempfiles-frontend/static/css/main.3d10672c.css.map",
+    "main.8e06ccf8.js.map": "/tempfiles-frontend/static/js/main.8e06ccf8.js.map",
+    "787.cda612ba.chunk.js.map": "/tempfiles-frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3d10672c.css",
-    "static/js/main.c7d98d2b.js"
+    "static/js/main.8e06ccf8.js"
   ]
 }
